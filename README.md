@@ -8,3 +8,6 @@
 * Lendo dados de arquivo CSV, Excel, SQL
 * Exportando para JSON, HTML, Clipboard
 * Gravando dados em CSV, EXcel, SQL
+
+
+As instruções estão no arquivo ipynb: junto com os exemplos de codigo.
